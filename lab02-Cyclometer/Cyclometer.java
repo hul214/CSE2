@@ -45,9 +45,6 @@ public class Cyclometer {
         (secsTrip2/secondsPerMinute)+" minutes and had "+
         countsTrip2+" counts.");
         
-        //run the calculations; store the values. Document your
-        //calculation here. What are you calculating?
-        //
         //distanceTrip1=countsTrip1*wheelDiameter*PI;
         // Above gives distance in inches
         //(for each count, a rotation of the wheel travels
