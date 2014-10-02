@@ -1,3 +1,11 @@
+//Huahao Luo
+//Lehigh ID: hul214
+//Course: CSE 2
+//HW05 Program1:BurgerKing
+//Write a program that prompts the user to enter a choice of 
+//a burger, a soda, or fries. Then the program prompts the users 
+//for details of their choices.
+
 import java.util.Scanner;//import scanner
 public class BurgerKing
 {
